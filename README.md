@@ -1,5 +1,31 @@
 # 💫 About Me:
- Hi, I'm Yuvraj Singh chauhan<br><br>I'm a Full Stack Developer who loves exploring the web—breaking things, understanding them, and rebuilding them better.<br><br>I'm deeply curious about how applications are structured and how they work at a production level. That curiosity pushes me to go beyond just using tools—I focus on understanding systems from the ground up.<br><br>Currently, I’m diving into **AI engineering**, focusing on:<br><br>* Retrieval-Augmented Generation (RAG)<br>* Vector Databases<br>* LangChain and LLM-based systems<br><br><br><br>📌 What I'm Focused On<br><br>* Building scalable full-stack applications<br>* Understanding production-level architectures<br>* Exploring AI-powered applications and workflows<br><br><br><br> 📫 Connect With Me<br>* 💼 LinkedIn: https://www.linkedin.com/in/yuvraj7singh<br>
+ About Me
+
+Hi, I’m Yuvraj Singh Chauhan a Full Stack Developer who likes taking things apart to understand how they really work, then rebuilding them better.
+
+What Drives Me
+
+I’m not satisfied just using a tool I want to understand what’s happening underneath it. That curiosity is what pushes me to study production-level architectures instead of stopping at the surface.
+
+What I’m Currently Exploring
+Retrieval-Augmented Generation (RAG)
+Vector Databases
+LangChain & LLM-based systems
+
+Where I Work
+
+Full Stack Intern at Caplore India’s Private Capital Operating System.
+Caplore is a platform built for investors, founders, and capital market professionals to discover, evaluate, and manage private market opportunities in one place. Being part of a team building infrastructure (not just another app) for a fragmented industry has shaped how I think about trust, governance, and transparency in software — not just functionality.
+
+What I’m Focused On Right Now
+
+Building scalable full-stack applications
+Understanding production-level architecture
+Building production-grade apps with GenAI integration
+
+In Short
+
+Still learning, still breaking things (on purpose), still rebuilding them better.
 
 
 ## 🌐 Socials:
