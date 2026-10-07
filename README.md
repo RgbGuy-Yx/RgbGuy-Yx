@@ -26,26 +26,9 @@
 
 <img src="skills.svg" width="860" alt="Categorized Technical Skills Matrix" />
 
-</div>
-
 <br>
 <br>
 
-### <code>yuvraj@github ~ $ cat ~/about_me.md</code>
-
-```text
-> Yuvraj Singh Chauhan
-> Full Stack Engineer & AI Engineer
-
-I like taking complex systems apart to understand how they work beneath the abstractions, 
-then rebuilding them faster, cleaner, and more resilient.
-
-Current Engineering Focus:
-• Generative AI & Autonomous Agent Architectures (LangGraph, LangChain, MCP, RAG)
-• High-Performance Backends & Distributed Systems (Node.js, FastAPI, WebSockets)
-• Full-Stack & Systems Engineering (Next.js, React, PostgreSQL, Docker, Redis)
-```
-
-<br>
 <sub>Rendered locally & automatically synchronized via <a href=".github/workflows/update-profile-art.yml">GitHub Actions</a> • Zero external shield dependencies</sub>
+
 </div>
