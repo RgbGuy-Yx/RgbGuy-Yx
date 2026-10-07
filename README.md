@@ -26,28 +26,26 @@
 
 <img src="skills.svg" width="860" alt="Categorized Technical Skills Matrix" />
 
-<br>
-
-<h3><code>yuvraj@github ~ $ cat ~/about_me.md</code></h3>
-
-<img src="about.svg" width="860" alt="About Me Terminal Card" />
-
 </div>
 
 <br>
-
-### <code>yuvraj@github ~ $ netstat --listening-endpoints</code>
-
-```text
-PROTO  LOCAL_ADDRESS          SERVICE      ACTION / LINK
-tcp    0.0.0.0:22             ssh          git@github.com:RgbGuy-Yx
-tcp    0.0.0.0:443            email        mailto:ys0609392@gmail.com
-tcp    0.0.0.0:8080           social       https://instagram.com/yuvies.45
-```
-
 <br>
 
----
+### <code>yuvraj@github ~ $ cat ~/about_me.md</code>
+
+```text
+> Yuvraj Singh Chauhan
+> Full Stack Engineer & AI Agent Architect
+
+I like taking complex systems apart to understand how they work beneath the abstractions, 
+then rebuilding them faster, cleaner, and more resilient.
+
+Current Engineering Focus:
+• Generative AI & Autonomous Agent Architectures (LangGraph, LangChain, MCP, RAG)
+• High-Performance Backends & Distributed Systems (Node.js, FastAPI, WebSockets)
+• Full-Stack & Systems Engineering (Next.js, React, PostgreSQL, Docker, Redis)
+
+
 
 <div align="center">
 <sub>Rendered locally & automatically synchronized via <a href=".github/workflows/update-profile-art.yml">GitHub Actions</a> • Zero external shield dependencies</sub>
