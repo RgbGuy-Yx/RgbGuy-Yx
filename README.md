@@ -26,43 +26,13 @@
 
 <img src="skills.svg" width="860" alt="Categorized Technical Skills Matrix" />
 
-</div>
-
 <br>
 
-<div align="center">
+<h3><code>yuvraj@github ~ $ cat ~/about_me.md</code></h3>
 
-```text
-===================================================================================================
-[PROGRAMMING LANGUAGES]  C · Java · Python · JavaScript · TypeScript · SQL
-[GENERATIVE AI]          LangChain · LangGraph · RAG · AI Agents · MCP
-                         Prompt Engineering · Embedding Models · Semantic Search
-[FRAMEWORKS & LIBS]      React · Next.js · Node.js · Express · FastAPI · Tailwind CSS · WebSockets
-[DATABASES]              MongoDB · Redis · Supabase · PostgreSQL · Pinecone · ChromaDB
-[TOOLS & PLATFORMS]      Git · GitHub · Docker · Postman · CI/CD · GitHub Actions
-[SOFT SKILLS]            Communication · Leadership · Problem Solving · Decision Making · Adaptability
-[SPOKEN LANGUAGES]       English · Hindi
-===================================================================================================
-```
+<img src="about.svg" width="860" alt="About Me Terminal Card" />
 
 </div>
-
-<br>
-
-### <code>yuvraj@github ~ $ cat ~/about_me.md</code>
-
-```text
-> Yuvraj Singh Chauhan
-> Full Stack Engineer & AI Agent Architect
-
-I like taking complex systems apart to understand how they work beneath the abstractions, 
-then rebuilding them faster, cleaner, and more resilient.
-
-Current Engineering Focus:
-• Generative AI & Autonomous Agent Architectures (LangGraph, LangChain, MCP, RAG)
-• High-Performance Backends & Distributed Systems (Node.js, FastAPI, WebSockets)
-• Full-Stack & Systems Engineering (Next.js, React, PostgreSQL, Docker, Redis)
-```
 
 <br>
 

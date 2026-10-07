@@ -15,14 +15,14 @@ import sys
 
 
 DEFAULT_FIELDS = [
-    ("OS", "Arch Linux x86_64 / Fedora", "#58A6FF"),
-    ("Kernel", "Linux 6.12.8 / Node.js 22.x / Py 3.13", "#A5D6FF"),
-    ("Uptime", "Always running, rebuilding better", "#7EE787"),
-    ("Role", "Full Stack Engineer & AI Agent Architect", "#FFA657"),
-    ("Focus", "LangChain, LangGraph, RAG & AI Agents (MCP)", "#D2A8FF"),
-    ("Stack", "Python, TypeScript, React, Next.js, FastAPI", "#79C0FF"),
+    ("Identity", "Yuvraj Singh Chauhan", "#F0F6FC"),
+    ("Role", "Full Stack Engineer & AI Engineer", "#FFA657"),
+    ("Focus", "Autonomous Agents, LangGraph, MCP, RAG", "#D2A8FF"),
+    ("Backends", "Node.js, FastAPI, WebSockets, Systems", "#79C0FF"),
+    ("Stack", "Next.js, React, PostgreSQL, Docker, Redis", "#56D4DD"),
+    ("Motto", "Break abstractions, rebuild them better", "#7EE787"),
     ("Contact", "ys0609392@gmail.com", "#58A6FF"),
-    ("Status", "Active // Breaking & rebuilding", "#7EE787"),
+    ("Status", "Active // Production Systems & AI", "#7EE787"),
 ]
 
 COLOR_BLOCKS = [
