@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 390" width="490" height="390" role="img" aria-label="Neofetch Terminal Card">
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    }
+    .bg {
+      fill: #0D1117;
+      stroke: #30363D;
+      stroke-width: 1;
+    }
+    .header-bar {
+      fill: #161B22;
+    }
+    .font-bold {
+      font-weight: 700;
+    }
+    .circle-red { fill: #FF5F56; }
+    .circle-yellow { fill: #FFBD2E; }
+    .circle-green { fill: #27C93F; }
+
+      .line-anim {
+        opacity: 0;
+        transform: translateX(-10px);
+        animation: lineFadeIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      }
+      @keyframes lineFadeIn {
+        from {
+          opacity: 0;
+          transform: translateX(-10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+    
+  </style>
+
+  <!-- Container Window Box -->
+  <rect class="bg" x="0.5" y="0.5" width="489" height="389" rx="8" />
+
+  <!-- Terminal Header Bar -->
+  <path class="header-bar" d="M 0.5 8.5 A 8 8 0 0 1 8.5 0.5 L 481.5 0.5 A 8 8 0 0 1 489.5 8.5 L 489.5 30.5 L 0.5 30.5 Z" />
+  <line x1="0.5" y1="30.5" x2="489.5" y2="30.5" stroke="#30363D" stroke-width="1" />
+
+  <!-- Window Control Buttons -->
+  <circle cx="18" cy="15.5" r="4.5" class="circle-red" />
+  <circle cx="32" cy="15.5" r="4.5" class="circle-yellow" />
+  <circle cx="46" cy="15.5" r="4.5" class="circle-green" />
+
+  <!-- Terminal Title Prompt -->
+  <text x="64" y="19" class="mono" font-size="11.5" fill="#8B949E">
+    <tspan fill="#58A6FF">yuvraj@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#D2A8FF">~</tspan><tspan fill="#8B949E">$ neofetch --terminal-style</tspan>
+  </text>
+
+  <!-- Card Lines -->
+  <g class="line-anim" style="animation-delay: 0ms;">
+    <text x="24" y="72" class="mono font-bold" font-size="14.5">
+      <tspan fill="#58A6FF">yuvraj</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#7EE787">github</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 50ms;">
+    <text x="24" y="90" class="mono" fill="#484F58" font-size="12">-------------</text>
+  </g>
+  <g class="line-anim" style="animation-delay: 100ms;">
+    <text x="24" y="114" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">OS      </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#58A6FF">Arch Linux x86_64 / Fedora</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 150ms;">
+    <text x="24" y="140" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Kernel  </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#A5D6FF">Linux 6.12.8 / Node.js 22.x / Py 3.13</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 200ms;">
+    <text x="24" y="166" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Uptime  </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#7EE787">Always running, rebuilding better</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 250ms;">
+    <text x="24" y="192" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Role    </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#FFA657">Full Stack Engineer &amp; AI Agent Architect</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 300ms;">
+    <text x="24" y="218" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Focus   </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#D2A8FF">LangChain, LangGraph, RAG &amp; AI Agents (MCP)</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 350ms;">
+    <text x="24" y="244" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Stack   </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#79C0FF">Python, TypeScript, React, Next.js, FastAPI</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 400ms;">
+    <text x="24" y="270" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Contact </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#58A6FF">ys0609392@gmail.com</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 450ms;">
+    <text x="24" y="296" class="mono" font-size="12.5">
+      <tspan fill="#79C0FF" font-weight="600">Status  </tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#7EE787">Active // Breaking &amp; rebuilding</tspan>
+    </text>
+  </g>
+  <g class="line-anim" style="animation-delay: 500ms;">
+    <rect x="24" y="334" width="24" height="13" rx="2" fill="#484F58" /> <rect x="53" y="334" width="24" height="13" rx="2" fill="#FF7B72" /> <rect x="82" y="334" width="24" height="13" rx="2" fill="#7EE787" /> <rect x="111" y="334" width="24" height="13" rx="2" fill="#F2CC60" /> <rect x="140" y="334" width="24" height="13" rx="2" fill="#58A6FF" /> <rect x="169" y="334" width="24" height="13" rx="2" fill="#BC8CFF" /> <rect x="198" y="334" width="24" height="13" rx="2" fill="#39C5CF" /> <rect x="227" y="334" width="24" height="13" rx="2" fill="#B1BAC4" />
+  </g>
+</svg>

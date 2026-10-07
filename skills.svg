@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 318" width="860" height="318" role="img" aria-label="Technical Skills Matrix">
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    }
+    .bg {
+      fill: #0D1117;
+      stroke: #30363D;
+      stroke-width: 1;
+    }
+    .header-bar {
+      fill: #161B22;
+    }
+    .cat-label {
+      font-size: 11.5px;
+      font-weight: 600;
+      letter-spacing: 0.2px;
+    }
+    .skill-text {
+      font-size: 11px;
+      font-weight: 500;
+      fill: #C9D1D9;
+    }
+    .pill-bg {
+      fill: rgba(110, 118, 129, 0.1);
+      stroke: #30363D;
+      stroke-width: 1;
+      transition: all 0.15s ease;
+    }
+    .skill-pill:hover .pill-bg {
+      fill: rgba(56, 139, 253, 0.15);
+      stroke: #58A6FF;
+    }
+    .skill-pill:hover .skill-text {
+      fill: #58A6FF;
+    }
+    .circle-red { fill: #FF5F56; }
+    .circle-yellow { fill: #FFBD2E; }
+    .circle-green { fill: #27C93F; }
+  </style>
+
+  <!-- Container Box -->
+  <rect class="bg" x="0.5" y="0.5" width="859" height="317" rx="8" />
+
+  <!-- Terminal Header Bar -->
+  <path class="header-bar" d="M 0.5 8.5 A 8 8 0 0 1 8.5 0.5 L 851.5 0.5 A 8 8 0 0 1 859.5 8.5 L 859.5 30.5 L 0.5 30.5 Z" />
+  <line x1="0.5" y1="30.5" x2="859.5" y2="30.5" stroke="#30363D" stroke-width="1" />
+
+  <!-- Window Controls -->
+  <circle cx="18" cy="15.5" r="4.5" class="circle-red" />
+  <circle cx="32" cy="15.5" r="4.5" class="circle-yellow" />
+  <circle cx="46" cy="15.5" r="4.5" class="circle-green" />
+
+  <!-- Command Line Header -->
+  <text x="64" y="19" class="mono" font-size="11.5">
+    <tspan fill="#58A6FF">yuvraj@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#D2A8FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#C9D1D9">cat skills.txt</tspan>
+  </text>
+
+  <!-- Categories & Skills Grid -->
+  <!-- [Programming Languages] -->
+  <text x="24" y="66.0" class="mono cat-label">
+    <tspan fill="#8B949E">[</tspan><tspan fill="#58A6FF">Programming Languages</tspan><tspan fill="#8B949E">]</tspan>
+  </text>
+    <g transform="translate(220.0, 50.0)" class="skill-pill">
+      <rect width="23.2" height="23" rx="4" class="pill-bg" />
+      <text x="11.6" y="15" text-anchor="middle" class="mono skill-text">C</text>
+    </g>
+    <g transform="translate(249.2, 50.0)" class="skill-pill">
+      <rect width="44.8" height="23" rx="4" class="pill-bg" />
+      <text x="22.4" y="15" text-anchor="middle" class="mono skill-text">Java</text>
+    </g>
+    <g transform="translate(300.0, 50.0)" class="skill-pill">
+      <rect width="59.2" height="23" rx="4" class="pill-bg" />
+      <text x="29.6" y="15" text-anchor="middle" class="mono skill-text">Python</text>
+    </g>
+    <g transform="translate(365.2, 50.0)" class="skill-pill">
+      <rect width="88.0" height="23" rx="4" class="pill-bg" />
+      <text x="44.0" y="15" text-anchor="middle" class="mono skill-text">JavaScript</text>
+    </g>
+    <g transform="translate(459.2, 50.0)" class="skill-pill">
+      <rect width="88.0" height="23" rx="4" class="pill-bg" />
+      <text x="44.0" y="15" text-anchor="middle" class="mono skill-text">TypeScript</text>
+    </g>
+    <g transform="translate(553.2, 50.0)" class="skill-pill">
+      <rect width="37.6" height="23" rx="4" class="pill-bg" />
+      <text x="18.8" y="15" text-anchor="middle" class="mono skill-text">SQL</text>
+    </g>
+  <!-- [Generative AI] -->
+  <text x="24" y="104.0" class="mono cat-label">
+    <tspan fill="#8B949E">[</tspan><tspan fill="#58A6FF">Generative AI</tspan><tspan fill="#8B949E">]</tspan>
+  </text>
+    <g transform="translate(220.0, 88.0)" class="skill-pill">
+      <rect width="80.8" height="23" rx="4" class="pill-bg" />
+      <text x="40.4" y="15" text-anchor="middle" class="mono skill-text">LangChain</text>
+    </g>
+    <g transform="translate(306.8, 88.0)" class="skill-pill">
+      <rect width="80.8" height="23" rx="4" class="pill-bg" />
+      <text x="40.4" y="15" text-anchor="middle" class="mono skill-text">LangGraph</text>
+    </g>
+    <g transform="translate(393.6, 88.0)" class="skill-pill">
+      <rect width="37.6" height="23" rx="4" class="pill-bg" />
+      <text x="18.8" y="15" text-anchor="middle" class="mono skill-text">RAG</text>
+    </g>
+    <g transform="translate(437.2, 88.0)" class="skill-pill">
+      <rect width="80.8" height="23" rx="4" class="pill-bg" />
+      <text x="40.4" y="15" text-anchor="middle" class="mono skill-text">AI Agents</text>
+    </g>
+    <g transform="translate(524.0, 88.0)" class="skill-pill">
+      <rect width="37.6" height="23" rx="4" class="pill-bg" />
+      <text x="18.8" y="15" text-anchor="middle" class="mono skill-text">MCP</text>
+    </g>
+    <g transform="translate(567.6, 88.0)" class="skill-pill">
+      <rect width="145.6" height="23" rx="4" class="pill-bg" />
+      <text x="72.8" y="15" text-anchor="middle" class="mono skill-text">Prompt Engineering</text>
+    </g>
+    <g transform="translate(220.0, 116.0)" class="skill-pill">
+      <rect width="131.2" height="23" rx="4" class="pill-bg" />
+      <text x="65.6" y="15" text-anchor="middle" class="mono skill-text">Embedding Models</text>
+    </g>
+    <g transform="translate(357.2, 116.0)" class="skill-pill">
+      <rect width="124.0" height="23" rx="4" class="pill-bg" />
+      <text x="62.0" y="15" text-anchor="middle" class="mono skill-text">Semantic Search</text>
+    </g>
+  <!-- [Frameworks &amp; Libraries] -->
+  <text x="24" y="170.0" class="mono cat-label">
+    <tspan fill="#8B949E">[</tspan><tspan fill="#58A6FF">Frameworks &amp; Libraries</tspan><tspan fill="#8B949E">]</tspan>
+  </text>
+    <g transform="translate(220.0, 154.0)" class="skill-pill">
+      <rect width="52.0" height="23" rx="4" class="pill-bg" />
+      <text x="26.0" y="15" text-anchor="middle" class="mono skill-text">React</text>
+    </g>
+    <g transform="translate(278.0, 154.0)" class="skill-pill">
+      <rect width="66.4" height="23" rx="4" class="pill-bg" />
+      <text x="33.2" y="15" text-anchor="middle" class="mono skill-text">Next.js</text>
+    </g>
+    <g transform="translate(350.4, 154.0)" class="skill-pill">
+      <rect width="66.4" height="23" rx="4" class="pill-bg" />
+      <text x="33.2" y="15" text-anchor="middle" class="mono skill-text">Node.js</text>
+    </g>
+    <g transform="translate(422.8, 154.0)" class="skill-pill">
+      <rect width="66.4" height="23" rx="4" class="pill-bg" />
+      <text x="33.2" y="15" text-anchor="middle" class="mono skill-text">Express</text>
+    </g>
+    <g transform="translate(495.2, 154.0)" class="skill-pill">
+      <rect width="66.4" height="23" rx="4" class="pill-bg" />
+      <text x="33.2" y="15" text-anchor="middle" class="mono skill-text">FastAPI</text>
+    </g>
+    <g transform="translate(567.6, 154.0)" class="skill-pill">
+      <rect width="102.4" height="23" rx="4" class="pill-bg" />
+      <text x="51.2" y="15" text-anchor="middle" class="mono skill-text">Tailwind CSS</text>
+    </g>
+    <g transform="translate(676.0, 154.0)" class="skill-pill">
+      <rect width="88.0" height="23" rx="4" class="pill-bg" />
+      <text x="44.0" y="15" text-anchor="middle" class="mono skill-text">WebSockets</text>
+    </g>
+  <!-- [Databases] -->
+  <text x="24" y="208.0" class="mono cat-label">
+    <tspan fill="#8B949E">[</tspan><tspan fill="#58A6FF">Databases</tspan><tspan fill="#8B949E">]</tspan>
+  </text>
+    <g transform="translate(220.0, 192.0)" class="skill-pill">
+      <rect width="66.4" height="23" rx="4" class="pill-bg" />
+      <text x="33.2" y="15" text-anchor="middle" class="mono skill-text">MongoDB</text>
+    </g>
+    <g transform="translate(292.4, 192.0)" class="skill-pill">
+      <rect width="52.0" height="23" rx="4" class="pill-bg" />
+      <text x="26.0" y="15" text-anchor="middle" class="mono skill-text">Redis</text>
+    </g>
+    <g transform="translate(350.4, 192.0)" class="skill-pill">
+      <rect width="73.6" height="23" rx="4" class="pill-bg" />
+      <text x="36.8" y="15" text-anchor="middle" class="mono skill-text">Supabase</text>
+    </g>
+    <g transform="translate(430.0, 192.0)" class="skill-pill">
+      <rect width="88.0" height="23" rx="4" class="pill-bg" />
+      <text x="44.0" y="15" text-anchor="middle" class="mono skill-text">PostgreSQL</text>
+    </g>
+    <g transform="translate(524.0, 192.0)" class="skill-pill">
+      <rect width="73.6" height="23" rx="4" class="pill-bg" />
+      <text x="36.8" y="15" text-anchor="middle" class="mono skill-text">Pinecone</text>
+    </g>
+    <g transform="translate(603.6, 192.0)" class="skill-pill">
+      <rect width="73.6" height="23" rx="4" class="pill-bg" />
+      <text x="36.8" y="15" text-anchor="middle" class="mono skill-text">ChromaDB</text>
+    </g>
+  <!-- [Tools &amp; Platforms] -->
+  <text x="24" y="246.0" class="mono cat-label">
+    <tspan fill="#8B949E">[</tspan><tspan fill="#58A6FF">Tools &amp; Platforms</tspan><tspan fill="#8B949E">]</tspan>
+  </text>
+    <g transform="translate(220.0, 230.0)" class="skill-pill">
+      <rect width="37.6" height="23" rx="4" class="pill-bg" />
+      <text x="18.8" y="15" text-anchor="middle" class="mono skill-text">Git</text>
+    </g>
+    <g transform="translate(263.6, 230.0)" class="skill-pill">
+      <rect width="59.2" height="23" rx="4" class="pill-bg" />
+      <text x="29.6" y="15" text-anchor="middle" class="mono skill-text">GitHub</text>
+    </g>
+    <g transform="translate(328.8, 230.0)" class="skill-pill">
+      <rect width="59.2" height="23" rx="4" class="pill-bg" />
+      <text x="29.6" y="15" text-anchor="middle" class="mono skill-text">Docker</text>
+    </g>
+    <g transform="translate(394.0, 230.0)" class="skill-pill">
+      <rect width="66.4" height="23" rx="4" class="pill-bg" />
+      <text x="33.2" y="15" text-anchor="middle" class="mono skill-text">Postman</text>
+    </g>
+    <g transform="translate(466.4, 230.0)" class="skill-pill">
+      <rect width="52.0" height="23" rx="4" class="pill-bg" />
+      <text x="26.0" y="15" text-anchor="middle" class="mono skill-text">CI/CD</text>
+    </g>
+    <g transform="translate(524.4, 230.0)" class="skill-pill">
+      <rect width="116.8" height="23" rx="4" class="pill-bg" />
+      <text x="58.4" y="15" text-anchor="middle" class="mono skill-text">GitHub Actions</text>
+    </g>
+  <!-- [Soft Skills] -->
+  <text x="24" y="284.0" class="mono cat-label">
+    <tspan fill="#8B949E">[</tspan><tspan fill="#58A6FF">Soft Skills</tspan><tspan fill="#8B949E">]</tspan>
+  </text>
+    <g transform="translate(220.0, 268.0)" class="skill-pill">
+      <rect width="109.6" height="23" rx="4" class="pill-bg" />
+      <text x="54.8" y="15" text-anchor="middle" class="mono skill-text">Communication</text>
+    </g>
+    <g transform="translate(335.6, 268.0)" class="skill-pill">
+      <rect width="88.0" height="23" rx="4" class="pill-bg" />
+      <text x="44.0" y="15" text-anchor="middle" class="mono skill-text">Leadership</text>
+    </g>
+    <g transform="translate(429.6, 268.0)" class="skill-pill">
+      <rect width="124.0" height="23" rx="4" class="pill-bg" />
+      <text x="62.0" y="15" text-anchor="middle" class="mono skill-text">Problem Solving</text>
+    </g>
+    <g transform="translate(559.6, 268.0)" class="skill-pill">
+      <rect width="124.0" height="23" rx="4" class="pill-bg" />
+      <text x="62.0" y="15" text-anchor="middle" class="mono skill-text">Decision Making</text>
+    </g>
+    <g transform="translate(689.6, 268.0)" class="skill-pill">
+      <rect width="102.4" height="23" rx="4" class="pill-bg" />
+      <text x="51.2" y="15" text-anchor="middle" class="mono skill-text">Adaptability</text>
+    </g>
+</svg>

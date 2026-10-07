@@ -1,0 +1,691 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 390" width="370" height="390" role="img" aria-label="ASCII Art Portrait">
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    }
+    .bg {
+      fill: #0D1117;
+      stroke: #30363D;
+      stroke-width: 1;
+    }
+    .header-bar {
+      fill: #161B22;
+    }
+    .ascii-font {
+      font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", Courier, monospace;
+      font-size: 5.95px;
+      font-weight: 500;
+      fill: #C9D1D9;
+      white-space: pre;
+      letter-spacing: -0.05px;
+    }
+    .circle-red { fill: #FF5F56; }
+    .circle-yellow { fill: #FFBD2E; }
+    .circle-green { fill: #27C93F; }
+  </style>
+
+  <defs>
+    <clipPath id="w_0">
+      <rect x="14.0" y="35.8" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.08s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_1">
+      <rect x="14.0" y="42.3" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.101s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_2">
+      <rect x="14.0" y="48.7" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.122s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_3">
+      <rect x="14.0" y="55.1" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.142s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_4">
+      <rect x="14.0" y="61.5" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.163s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_5">
+      <rect x="14.0" y="67.9" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.184s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_6">
+      <rect x="14.0" y="74.4" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.205s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_7">
+      <rect x="14.0" y="80.8" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.225s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_8">
+      <rect x="14.0" y="87.2" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.246s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_9">
+      <rect x="14.0" y="93.6" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.267s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_10">
+      <rect x="14.0" y="100.0" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.288s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_11">
+      <rect x="14.0" y="106.5" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.308s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_12">
+      <rect x="14.0" y="112.9" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.329s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_13">
+      <rect x="14.0" y="119.3" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.35s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_14">
+      <rect x="14.0" y="125.7" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.371s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_15">
+      <rect x="14.0" y="132.2" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.392s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_16">
+      <rect x="14.0" y="138.6" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.412s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_17">
+      <rect x="14.0" y="145.0" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.433s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_18">
+      <rect x="14.0" y="151.4" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.454s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_19">
+      <rect x="14.0" y="157.8" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.475s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_20">
+      <rect x="14.0" y="164.3" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.495s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_21">
+      <rect x="14.0" y="170.7" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.516s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_22">
+      <rect x="14.0" y="177.1" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.537s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_23">
+      <rect x="14.0" y="183.5" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.558s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_24">
+      <rect x="14.0" y="189.9" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.578s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_25">
+      <rect x="14.0" y="196.4" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.599s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_26">
+      <rect x="14.0" y="202.8" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.62s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_27">
+      <rect x="14.0" y="209.2" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.641s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_28">
+      <rect x="14.0" y="215.6" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.662s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_29">
+      <rect x="14.0" y="222.0" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.682s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_30">
+      <rect x="14.0" y="228.5" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.703s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_31">
+      <rect x="14.0" y="234.9" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.724s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_32">
+      <rect x="14.0" y="241.3" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.745s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_33">
+      <rect x="14.0" y="247.7" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.765s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_34">
+      <rect x="14.0" y="254.1" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.786s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_35">
+      <rect x="14.0" y="260.6" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.807s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_36">
+      <rect x="14.0" y="267.0" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.828s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_37">
+      <rect x="14.0" y="273.4" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.848s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_38">
+      <rect x="14.0" y="279.8" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.869s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_39">
+      <rect x="14.0" y="286.2" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.89s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_40">
+      <rect x="14.0" y="292.7" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.911s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_41">
+      <rect x="14.0" y="299.1" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.932s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_42">
+      <rect x="14.0" y="305.5" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.952s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_43">
+      <rect x="14.0" y="311.9" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.973s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_44">
+      <rect x="14.0" y="318.3" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="0.994s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_45">
+      <rect x="14.0" y="324.8" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.015s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_46">
+      <rect x="14.0" y="331.2" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.035s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_47">
+      <rect x="14.0" y="337.6" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.056s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_48">
+      <rect x="14.0" y="344.0" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.077s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_49">
+      <rect x="14.0" y="350.4" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.098s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_50">
+      <rect x="14.0" y="356.9" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.118s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_51">
+      <rect x="14.0" y="363.3" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.139s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="w_52">
+      <rect x="14.0" y="369.7" width="0" height="7.4">
+        <animate attributeName="width" from="0" to="340.8" begin="1.16s" dur="0.22s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Container Box -->
+  <rect class="bg" x="0.5" y="0.5" width="369" height="389" rx="8" />
+
+  <!-- Terminal Header Bar -->
+  <path class="header-bar" d="M 0.5 8.5 A 8 8 0 0 1 8.5 0.5 L 361.5 0.5 A 8 8 0 0 1 369.5 8.5 L 369.5 30.5 L 0.5 30.5 Z" />
+  <line x1="0.5" y1="30.5" x2="369.5" y2="30.5" stroke="#30363D" stroke-width="1" />
+
+  <!-- Window Controls -->
+  <circle cx="18" cy="15.5" r="4.5" class="circle-red" />
+  <circle cx="32" cy="15.5" r="4.5" class="circle-yellow" />
+  <circle cx="46" cy="15.5" r="4.5" class="circle-green" />
+
+  <!-- Terminal Header Prompt -->
+  <text x="64" y="19" class="mono" font-size="11.5">
+    <tspan fill="#58A6FF">yuvraj@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#D2A8FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#C9D1D9">cat avi.ascii</tspan>
+  </text>
+
+  <!-- Blinking Cursor in Header -->
+  <rect x="238" y="9.5" width="6" height="12" fill="#7EE787">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- ASCII Portrait Content -->
+  <g clip-path="url(#w_0)">
+    <text x="14.0" y="41.0" class="ascii-font">                                                                                                </text>
+  </g>
+  <g clip-path="url(#w_1)">
+    <text x="14.0" y="47.4" class="ascii-font">                                                                                                </text>
+  </g>
+  <g clip-path="url(#w_2)">
+    <text x="14.0" y="53.8" class="ascii-font">                                                                                                </text>
+  </g>
+  <g clip-path="url(#w_3)">
+    <text x="14.0" y="60.3" class="ascii-font">                                                                                                </text>
+  </g>
+  <g clip-path="url(#w_4)">
+    <text x="14.0" y="66.7" class="ascii-font">                                                                                                </text>
+  </g>
+  <g clip-path="url(#w_5)">
+    <text x="14.0" y="73.1" class="ascii-font">                                                                                                </text>
+  </g>
+  <g clip-path="url(#w_6)">
+    <text x="14.0" y="79.5" class="ascii-font">                                                         .`````....                             </text>
+  </g>
+  <g clip-path="url(#w_7)">
+    <text x="14.0" y="85.9" class="ascii-font">                                       ..``::::--:::::---======**++-.                           </text>
+  </g>
+  <g clip-path="url(#w_8)">
+    <text x="14.0" y="92.4" class="ascii-font">                                     :csssc=+++cccccccccc+=--:=cc+==``::`..                     </text>
+  </g>
+  <g clip-path="url(#w_9)">
+    <text x="14.0" y="98.8" class="ascii-font">                                   ..+#cc*=----===++++++=--:::-*s*=:-c##s+:.                    </text>
+  </g>
+  <g clip-path="url(#w_10)">
+    <text x="14.0" y="105.2" class="ascii-font">                                  ...-s#s+-::``::::---:-:------=*c*+ssssc-`.                    </text>
+  </g>
+  <g clip-path="url(#w_11)">
+    <text x="14.0" y="111.6" class="ascii-font">                                  ...:ccc+:`...`..````````-=+**cs#%%##sc=`..                    </text>
+  </g>
+  <g clip-path="url(#w_12)">
+    <text x="14.0" y="118.0" class="ascii-font">                                   .:cscc*+==++-+***+==++c#%%@@@@%@%%#sc=:`.                    </text>
+  </g>
+  <g clip-path="url(#w_13)">
+    <text x="14.0" y="124.5" class="ascii-font">                                 ..=####ss#@@@@%#%%%%@#*s@%%%%@%%%%%sss**-`..                   </text>
+  </g>
+  <g clip-path="url(#w_14)">
+    <text x="14.0" y="130.9" class="ascii-font">                                .:=s***++=-s@###ss##%#:::+%%##%#%%%%ccsc+:.. ..                 </text>
+  </g>
+  <g clip-path="url(#w_15)">
+    <text x="14.0" y="137.3" class="ascii-font">                             ..-+*c*=*c*+=-=#%ss##%%#=:==-*s######sccsss*-`....                 </text>
+  </g>
+  <g clip-path="url(#w_16)">
+    <text x="14.0" y="143.7" class="ascii-font">                           ..:+*=+ccscc*+=-:=ccssss*-::=+-::-++++==+*cssc*-`.. ..               </text>
+  </g>
+  <g clip-path="url(#w_17)">
+    <text x="14.0" y="150.1" class="ascii-font">                           ``-*==+cssc*=--:::-=+*+-::-=+--:..:-==++=+**cssc+-``.``              </text>
+  </g>
+  <g clip-path="url(#w_18)">
+    <text x="14.0" y="156.6" class="ascii-font">                           .:=+==*sscc*+=-::::-===-```++==+` .`-==-::==+*cccc*=-``              </text>
+  </g>
+  <g clip-path="url(#w_19)">
+    <text x="14.0" y="163.0" class="ascii-font">                           .=*==+cssc*+===--:::-::`...:+c**:..``::::::--+*##%%ss-.              </text>
+  </g>
+  <g clip-path="url(#w_20)">
+    <text x="14.0" y="169.4" class="ascii-font">                           `**+++css*++===----:::`.. .`+ccc+:`````:-=*s#%%@%%sc@c. ......       </text>
+  </g>
+  <g clip-path="url(#w_21)">
+    <text x="14.0" y="175.8" class="ascii-font">                           -c+*++++****+==-:::::````..`=+==-`::-=+#%@@@%%%%##**%s-``:::`.       </text>
+  </g>
+  <g clip-path="url(#w_22)">
+    <text x="14.0" y="182.2" class="ascii-font">                         .-+++***==++++===--:``.......`-=+**s##%%@%%######%%%%###*=---::`       </text>
+  </g>
+  <g clip-path="url(#w_23)">
+    <text x="14.0" y="188.7" class="ascii-font">                       .-===++++++=--::----:--::-`..:+cs#%@@@%%%####%%@@%%%#ss#sc*+=--::`       </text>
+  </g>
+  <g clip-path="url(#w_24)">
+    <text x="14.0" y="195.1" class="ascii-font">                      :=:`:-===++=--:::```````::---=c@%###%%%%%%%%%%%#c**ccc*cc*++=--:-:`       </text>
+  </g>
+  <g clip-path="url(#w_25)">
+    <text x="14.0" y="201.5" class="ascii-font">                     -+-:`:--``:==--:--::``.....`:=+*##%#%%%%%##%%#+-:`:=cc*****++=-:::`        </text>
+  </g>
+  <g clip-path="url(#w_26)">
+    <text x="14.0" y="207.9" class="ascii-font">                    `*+-:::::```=====------:``:`::-+s%%%%%%%%%%%%%%=`:::+sscc+=-:`..            </text>
+  </g>
+  <g clip-path="url(#w_27)">
+    <text x="14.0" y="214.3" class="ascii-font">                    `+*-:```:::---===+=-===-==--:::===*s%%@%%%%+:ss*--:-*ccc*-..                </text>
+  </g>
+  <g clip-path="url(#w_28)">
+    <text x="14.0" y="220.8" class="ascii-font">                  ..:*=:`````-+=:-=+==+++====+==-:`...`:=ss#%#%c-:`=+:-=++cs*:..                </text>
+  </g>
+  <g clip-path="url(#w_29)">
+    <text x="14.0" y="227.2" class="ascii-font">                 ...+*-:````:=+++=+*+++++++*++=--:``..``````=c%c:.`==:++=*scc=:.                </text>
+  </g>
+  <g clip-path="url(#w_30)">
+    <text x="14.0" y="233.6" class="ascii-font">                 .`+*=::```:=++==+**+++++++*+++--:``...`....`+cs=`:-:-++*ss*=-:`                </text>
+  </g>
+  <g clip-path="url(#w_31)">
+    <text x="14.0" y="240.0" class="ascii-font">                 .-c+-:::-==+++===++========+=--:``..`````..:+%%#*+-=+*s#sc=:``.                </text>
+  </g>
+  <g clip-path="url(#w_32)">
+    <text x="14.0" y="246.4" class="ascii-font">                 :*+---==+++==------:-----==+----:```:-+s#+:+s%%%s*+*cs#c=:```.                 </text>
+  </g>
+  <g clip-path="url(#w_33)">
+    <text x="14.0" y="252.9" class="ascii-font">                 -c+-=+++++===========----=---==---=++*cc@@%###sc*+*c#%#*-:`..                  </text>
+  </g>
+  <g clip-path="url(#w_34)">
+    <text x="14.0" y="259.3" class="ascii-font">                `*+=+++++==++++++*+=+---==--=+*+=+******+++++======+*#%#+:`.                    </text>
+  </g>
+  <g clip-path="url(#w_35)">
+    <text x="14.0" y="265.7" class="ascii-font">               .=*=+=====---======---------=+++*++++++++=====------==c%#=..                     </text>
+  </g>
+  <g clip-path="url(#w_36)">
+    <text x="14.0" y="272.1" class="ascii-font">              .:*+=+=---:::::--=+-:::-:=-------==--==========-----=++c#s=`.                     </text>
+  </g>
+  <g clip-path="url(#w_37)">
+    <text x="14.0" y="278.5" class="ascii-font">              `+*+==--:-::-=--=*=::::`:-:-----------=---=---::----+*cc##c-.                     </text>
+  </g>
+  <g clip-path="url(#w_38)">
+    <text x="14.0" y="285.0" class="ascii-font">             .+*+==----==-====--=--::---:-----:::::-=+-::--:::::==*cs#%#c-.                     </text>
+  </g>
+  <g clip-path="url(#w_39)">
+    <text x="14.0" y="291.4" class="ascii-font">             :c*+=====-=====-=-=+=--:-::------::-=-=+-:::::-----==+*###s-.                      </text>
+  </g>
+  <g clip-path="url(#w_40)">
+    <text x="14.0" y="297.8" class="ascii-font">             .*c*++++++====------:-::-----=-----====-::::::::::::-=+s##*.                       </text>
+  </g>
+  <g clip-path="url(#w_41)">
+    <text x="14.0" y="304.2" class="ascii-font">             .+c*+**+==----::--:::-:::::----:::::::::``::::::::--=+c#*=:...                     </text>
+  </g>
+  <g clip-path="url(#w_42)">
+    <text x="14.0" y="310.6" class="ascii-font">             .-+cc*+==-:::::::`````:-=-:-=-=-:``:`:-::::::::--=+++c#+`....                      </text>
+  </g>
+  <g clip-path="url(#w_43)">
+    <text x="14.0" y="317.1" class="ascii-font">             .`:*sc+=-::`:::::```:::-+=-====-:::::-----::::--+*cssc+`.                          </text>
+  </g>
+  <g clip-path="url(#w_44)">
+    <text x="14.0" y="323.5" class="ascii-font">              .`:c#*==-::-:`::`::-==----::::::-=+====-+:---==c#ssc+----:.                       </text>
+  </g>
+  <g clip-path="url(#w_45)">
+    <text x="14.0" y="329.9" class="ascii-font">               ..`*sc+=------:-======:-------=+*++++***++******=======**++:                     </text>
+  </g>
+  <g clip-path="url(#w_46)">
+    <text x="14.0" y="336.3" class="ascii-font">                 ..=sc+=---=-+++***++=++*+++======-------++***++++++++++=:.                     </text>
+  </g>
+  <g clip-path="url(#w_47)">
+    <text x="14.0" y="342.7" class="ascii-font">                    `=+*===+ccc*+=---:::`....              .`::----:::`.                        </text>
+  </g>
+  <g clip-path="url(#w_48)">
+    <text x="14.0" y="349.2" class="ascii-font">                      :+===**=`..                            ........                           </text>
+  </g>
+  <g clip-path="url(#w_49)">
+    <text x="14.0" y="355.6" class="ascii-font">                    `=+++***=..                                                                 </text>
+  </g>
+  <g clip-path="url(#w_50)">
+    <text x="14.0" y="362.0" class="ascii-font">                    -****cc*-..                                                                 </text>
+  </g>
+  <g clip-path="url(#w_51)">
+    <text x="14.0" y="368.4" class="ascii-font">                    `:--=--:.                                                                   </text>
+  </g>
+  <g clip-path="url(#w_52)">
+    <text x="14.0" y="374.8" class="ascii-font">                                                                                                </text>
+  </g>
+
+  <!-- Trailing Block Cursor Indicators -->
+  <rect x="14.0" y="35.8" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.08s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.08s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="42.3" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.101s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.101s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="48.7" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.122s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.122s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="55.1" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.142s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.142s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="61.5" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.163s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.163s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="67.9" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.184s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.184s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="74.4" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.205s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.205s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="80.8" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.225s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.225s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="87.2" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.246s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.246s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="93.6" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.267s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.267s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="100.0" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.288s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.288s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="106.5" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.308s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.308s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="112.9" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.329s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.329s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="119.3" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.35s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.35s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="125.7" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.371s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.371s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="132.2" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.392s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.392s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="138.6" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.412s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.412s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="145.0" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.433s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.433s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="151.4" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.454s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.454s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="157.8" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.475s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.475s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="164.3" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.495s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.495s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="170.7" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.516s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.516s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="177.1" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.537s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.537s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="183.5" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.558s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.558s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="189.9" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.578s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.578s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="196.4" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.599s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.599s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="202.8" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.62s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.62s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="209.2" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.641s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.641s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="215.6" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.662s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.662s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="222.0" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.682s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.682s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="228.5" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.703s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.703s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="234.9" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.724s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.724s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="241.3" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.745s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.745s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="247.7" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.765s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.765s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="254.1" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.786s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.786s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="260.6" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.807s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.807s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="267.0" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.828s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.828s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="273.4" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.848s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.848s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="279.8" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.869s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.869s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="286.2" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.89s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.89s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="292.7" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.911s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.911s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="299.1" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.932s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.932s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="305.5" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.952s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.952s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="311.9" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.973s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.973s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="318.3" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="0.994s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="0.994s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="324.8" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.015s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.015s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="331.2" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.035s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.035s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="337.6" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.056s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.056s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="344.0" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.077s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.077s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="350.4" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.098s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.098s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="356.9" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.118s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.118s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="363.3" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.139s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.139s" dur="0.22s" fill="freeze" />
+  </rect>
+  <rect x="14.0" y="369.7" width="4" height="5.9" fill="#7EE787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.92;1" begin="1.16s" dur="0.22s" fill="freeze" />
+    <animate attributeName="x" from="14.0" to="354.8" begin="1.16s" dur="0.22s" fill="freeze" />
+  </rect>
+</svg>
