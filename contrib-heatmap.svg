@@ -473,7 +473,7 @@
   <rect x="784.0" y="62.0" width="10.5" height="10.5" rx="2" fill="#0e4429" class="heat-cell" style="animation-delay: 832ms;"><title>1 contributions on 2026-10-04</title></rect>
   <rect x="784.0" y="76.0" width="10.5" height="10.5" rx="2" fill="#161b22" class="heat-cell" style="animation-delay: 867ms;"><title>0 contributions on 2026-10-05</title></rect>
   <rect x="784.0" y="90.0" width="10.5" height="10.5" rx="2" fill="#161b22" class="heat-cell" style="animation-delay: 902ms;"><title>0 contributions on 2026-10-06</title></rect>
-  <rect x="784.0" y="104.0" width="10.5" height="10.5" rx="2" fill="#0e4429" class="heat-cell" style="animation-delay: 937ms;"><title>1 contributions on 2026-10-07</title></rect>
+  <rect x="784.0" y="104.0" width="10.5" height="10.5" rx="2" fill="#006d32" class="heat-cell" style="animation-delay: 937ms;"><title>4 contributions on 2026-10-07</title></rect>
   <rect x="784.0" y="118.0" width="10.5" height="10.5" rx="2" fill="#161b22" class="heat-cell" style="animation-delay: 972ms;"><title>0 contributions on 2026-10-08</title></rect>
   <rect x="784.0" y="132.0" width="10.5" height="10.5" rx="2" fill="#161b22" class="heat-cell" style="animation-delay: 1008ms;"><title>0 contributions on 2026-10-09</title></rect>
   <rect x="784.0" y="146.0" width="10.5" height="10.5" rx="2" fill="#161b22" class="heat-cell" style="animation-delay: 1043ms;"><title>0 contributions on 2026-10-10</title></rect>
@@ -485,7 +485,7 @@
   <!-- Bottom Stats Metadata -->
   <g class="mono stat-lbl" transform="translate(18, 184)">
     <text x="0" y="0">
-      <tspan class="stat-lbl">Contributions (yr): </tspan><tspan class="stat-val">327</tspan>
+      <tspan class="stat-lbl">Contributions (yr): </tspan><tspan class="stat-val">330</tspan>
       <tspan class="stat-sep">  │  </tspan>
       <tspan class="stat-lbl">Streak: </tspan><tspan class="stat-val">1d</tspan>
       <tspan class="stat-sep">  │  </tspan>
